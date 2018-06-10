@@ -1,0 +1,7 @@
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\bin\Debug\ACO_Convert.exe.config
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\bin\Debug\ACO_Convert.exe
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\bin\Debug\ACO_Convert.pdb
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\obj\Debug\ACO_Convert.csprojResolveAssemblyReference.cache
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\obj\Debug\ACO_Convert.csproj.CoreCompileInputs.cache
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\obj\Debug\ACO_Convert.exe
+C:\Users\ginn\source\repos\ACO_Convert\ACO_Convert\obj\Debug\ACO_Convert.pdb
